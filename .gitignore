@@ -1,0 +1,5 @@
+# Project exclude paths
+/controller/target/
+/dao/target/
+/entity/target/
+/service/target/
