@@ -38,7 +38,7 @@
         <servlet.version>3.1.0</servlet.version>
         <aspectj.version>1.9.4</aspectj.version>
         <spring.mybatis.version>1.1.1</spring.mybatis.version>
-        <hibernate.validator.version>6.1.0.Final</hibernate.validator.version>
+        <hibernate.validator.version>6.1.5.Final</hibernate.validator.version>
     </properties>
 
     <dependencyManagement>
